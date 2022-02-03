@@ -13,8 +13,8 @@
 [Stage7](http://stage7.co.kr/new/docs/main.html) 주식회사 스테이지세븐
 
 ### Core Members
-- 강군화
-- 소성철
+- 강군화 <ghkang@spiretech.co.kr>
+- 소성철 <papatomi@kakao.com>
 
 ### 런칭목표 2023
 - 서비스 정의완료 및 계획수립 2022 1Q
