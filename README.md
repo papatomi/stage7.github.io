@@ -1,6 +1,6 @@
 ## Welcome to Stage7
 
-'몰입감 넘치는 7가지 리얼리티 게임 Stage7'에 오신 것을 환영합니다.<br>
+'몰입감 넘치는 7가지 Reality 게임 Stage7'에 오신 것을 환영합니다.<br>
 본 문서는 Stage7의 전반적인 정의와 개발에 대한 내용을 정리한 것입니다.
 
 ### Stage7 Wiki
